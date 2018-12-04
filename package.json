@@ -1,0 +1,15 @@
+{
+  "name": "chatrooms",
+  "version": "0.0.1",
+  "description": "a minimalist multiroom char server",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Oyekunle Mark",
+  "license": "ISC",
+  "dependencies": {
+    "mime": "^2.4.0",
+    "socket.io": "^2.2.0"
+  }
+}
